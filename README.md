@@ -1,4 +1,4 @@
-# Sonar Scanner
+# Sonar Scanner- https://natepolishook.com/projects/sonar-scanner
 
 A servo-mounted ultrasonic sensor sweeps 180 degrees and drives real-time RGB LED and buzzer feedback based on live distance readings.
 
